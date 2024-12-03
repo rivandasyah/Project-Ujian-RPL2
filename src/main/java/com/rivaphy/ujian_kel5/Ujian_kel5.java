@@ -36,5 +36,4 @@ public class Ujian_kel5 implements ApplicationRunner{
     @Override
     public void run(ApplicationArguments args) throws Exception {
     }
-    
 }
